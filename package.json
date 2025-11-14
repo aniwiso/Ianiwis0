@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-privet",
+  "name": "node-http-do-vstrechi",
   "version": "1.0.0",
-  "description": "Simple Node.js project that outputs a greeting",
+  "description": "Node.js HTTP server that responds with 'До встречи!'",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
